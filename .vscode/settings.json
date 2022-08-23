@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "lv_examples.h": "c",
+        "lv_demo.h": "c",
+        "monitor.h": "c",
+        "lv_demo_widgets.h": "c",
+        "lv_example_widgets.h": "c",
+        "lv_example_get_started.h": "c",
+        "lvgl.h": "c",
+        "mouse.h": "c",
+        "keyboard.h": "c",
+        "mousewheel.h": "c",
+        "lv_demo_music_main.h": "c",
+        "lv_example_style.h": "c",
+        "stdlib.h": "c",
+        "random": "c"
+    }
+}
